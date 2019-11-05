@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    font: normal 25px Arial;
+    background-color: rgb(51, 138, 179);
+}
+
+header {
+    text-align: center;
+    color: white;
+    padding: 6px;
+    margin-top: 15px;
+}
+
+section {
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+    width: 500px;
+}
+
+footer {
+    color: white;
+    font: normal 15px Arial;
+    margin-top: 15px;
+}
+
+
+div {
+    text-align: center;
+    padding: 6px;
+    
+}
+
